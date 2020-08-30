@@ -10,7 +10,15 @@ Clocktea need timer supported in vim.
 
 2. source Clocktea.vim
 
+3. mv Clocktea.vim to $HOME/.vim/Clocktea.vim
+
 ## Usage
 
 input \":Clocktea\" in command
+
+## Test(Recommand at now)
+
+1. vim Clocktea.vim
+
+2. type \":so %\"
 
