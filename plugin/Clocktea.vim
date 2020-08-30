@@ -7,7 +7,8 @@
 " Install:
 " 1. download this srcipt file
 " 2. source Clocktea.vim
-" 3. mv Clocktea.vim to $HOME/.vim/Clocktea.vim
+" 3. sudo apt-get install figlet (Clocktea base on figlet now)
+" 4. mv Clocktea.vim to $HOME/.vim/Clocktea.vim
 "
 " Usage:
 " input \":Clocktea\" in vim command
